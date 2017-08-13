@@ -1,0 +1,8 @@
+C:\Users\10011027\desktop\10011027-task1-JS\bin\Debug\netcoreapp1.1\10011027-task1-JS.deps.json
+C:\Users\10011027\desktop\10011027-task1-JS\bin\Debug\netcoreapp1.1\10011027-task1-JS.runtimeconfig.json
+C:\Users\10011027\desktop\10011027-task1-JS\bin\Debug\netcoreapp1.1\10011027-task1-JS.runtimeconfig.dev.json
+C:\Users\10011027\desktop\10011027-task1-JS\obj\Debug\netcoreapp1.1\10011027-task1-JS.AssemblyInfo.cs
+C:\Users\10011027\desktop\10011027-task1-JS\bin\Debug\netcoreapp1.1\10011027-task1-JS.dll
+C:\Users\10011027\desktop\10011027-task1-JS\bin\Debug\netcoreapp1.1\10011027-task1-JS.pdb
+C:\Users\10011027\desktop\10011027-task1-JS\obj\Debug\netcoreapp1.1\10011027-task1-JS.dll
+C:\Users\10011027\desktop\10011027-task1-JS\obj\Debug\netcoreapp1.1\10011027-task1-JS.pdb
